@@ -1,7 +1,7 @@
 # Личный проект «Девайс»
 
 * Студент: [Григорий Исаев](https://up.htmlacademy.ru/htmlcss/25/user/1043625).
-* Наставник: `Неизвестно`.
+* Наставник: [Александр Юдин](https://htmlacademy.ru/profile/a-yudin).
 
 ---
 
